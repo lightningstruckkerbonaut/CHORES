@@ -1,5 +1,6 @@
 # C.H.O.R.E.S.
 CompreHensive Onboard Resource Evaluation Screen
+
 A KSP mod that shows detailed information about the resources currently in your vessel, such as density, volume and total mass.
 <img width="1917" height="1078" alt="Screenshot 2026-11-05 154037" src="https://github.com/user-attachments/assets/2e6be79c-0cb9-4a73-9bcf-53a98ef3cc92" />
 
